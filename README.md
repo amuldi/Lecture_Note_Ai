@@ -1,4 +1,3 @@
-# Lecture_Note_Ai
 # Lecture Notes AI
 
 강의나 회의 음성을 자동으로 텍스트로 추출하고,  
