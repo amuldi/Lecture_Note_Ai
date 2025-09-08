@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+__pycache__
+*.pyc
+.vscode
+.DS_Store
+*.log
+/tmp/
