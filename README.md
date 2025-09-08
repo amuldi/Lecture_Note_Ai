@@ -2,7 +2,7 @@
 
 강의나 회의 음성을 자동으로 텍스트로 추출하고,  
 편집 · 저장 · 관리할 수 있는 웹 애플리케이션입니다.  
-**Clova Speech API** + **Next.js/React** 기반으로 동작합니다.
+**Clova Speech API** + **Next.js/React** 
 
 ---
 
